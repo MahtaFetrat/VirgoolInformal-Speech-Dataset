@@ -49,7 +49,7 @@ The dataset can be accessed through the following links:
 - [Raw Data](link to be updated)
 - [Processed Data](link to be updated)
 
-You can also see a smaller randomly selected subset of the processed data in [this directory](link to be updated).
+You can also see a smaller randomly selected subset of the processed data in [this directory](sample_data).
 
 ## License
 
