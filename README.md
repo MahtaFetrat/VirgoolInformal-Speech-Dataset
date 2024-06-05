@@ -47,7 +47,7 @@ The dataset can be used to train Persian ASR and TTS models, specifically tailor
 The dataset can be accessed through the following links:
 
 - [Raw Data](link to be updated)
-- [Processed Data](link to be updated)
+- [Processed Data](https://dml.ir/virgool-informal)
 
 You can also see a smaller randomly selected subset of the processed data in [this directory](sample_data).
 
