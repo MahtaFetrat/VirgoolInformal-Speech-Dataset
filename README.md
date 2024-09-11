@@ -1,6 +1,6 @@
 # VirgoolInformal-Speech-Dataset
 
-This repository contains a dataset of informal Persian audio and text chunks suitable for Automatic Speech Recognition (ASR) and Text-to-Speech (TTS) tasks. The dataset was created by crawling informal Persian text from [virgool.io](https://virgool.io) using the crawling scripts from [this repository](https://github.com/MahtaFetrat/Virgool-Informal-Posts-Crawler), recording their spoken forms, and processing the raw audio and text files into smaller, equivalent chunks.
+This repository contains a dataset of informal Persian audio and text chunks suitable for Automatic Speech Recognition (ASR) and Text-to-Speech (TTS) tasks. The dataset was created by informal Persian text from [virgool.io](https://virgool.io), recording their spoken forms, and processing the raw audio and text files into smaller, equivalent chunks.
 
 ## Dataset Description
 
