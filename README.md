@@ -41,7 +41,7 @@ You can view and run [the processing notebook in Google Colab](https://colab.res
 
 ## Usage
 
-The dataset can be used to train Persian ASR and TTS models, specifically tailored for informal Persian speech. Additionally, it can be utilized to evaluate ASR models in terms of Character Error Rate (CER). For example, see [this repository](https://github.com/MahtaFetrat/Open-Persian-ASRs) for an ASR evaluation setup.
+The dataset can be used to train Persian ASR and TTS models, specifically tailored for informal Persian speech. Additionally, it can be utilized to evaluate ASR models in terms of Character Error Rate (CER).
 
 ## License
 
